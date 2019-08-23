@@ -1,4 +1,4 @@
-[![Build Status](https://marbot.visualstudio.com/Space%20Game%20-%20web/_apis/build/status/MariaBTV.mslearn-tailspin-spacegame-web-1?branchName=master)](https://marbot.visualstudio.com/Space%20Game%20-%20web/_build/latest?definitionId=2&branchName=master)
+[![Build Status](https://marbot.visualstudio.com/Space%20Game%20-%20web/_apis/build/status/MariaBTV.mslearn-tailspin-spacegame-web?branchName=master)](https://marbot.visualstudio.com/Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
